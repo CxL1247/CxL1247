@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @CxL1247
-- 👀 I’m interested in Mobile app dev
-- 🌱 I’m currently learning flutter(dart) and java
-- 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me Clintonifeoluwa@gmail.com 
-<!---
-CxL1247/CxL1247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Computer Science graduate with a strong interest in financial markets, automation, and applied AI. My work sits at the intersection of software development, quantitative trading, and data analysis, where I build tools that extract actionable insights from complex data.
+
+I have experience in AI-assisted development, data annotation for large language models, and IT support, where I developed a careful approach to debugging, verification, and problem solving. Alongside this, I build crypto trading tools and strategies, including pattern scanners, Pine Script strategies, and technical analysis systems focused on identifying market structure, divergence, and volatility breakouts.
+
+My current focus is on developing automated trading tools, market scanners, and AI-enhanced workflows that help analyze financial markets more efficiently. I’m particularly interested in combining technical analysis, statistical thinking, and automation to build systems that improve decision-making in fast-moving environments like crypto markets.
